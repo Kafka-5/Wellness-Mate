@@ -1,34 +1,21 @@
-# 🌿 Wellness Mate
 
-**Wellness Mate** is a friendly mental health chatbot built using [Streamlit](https://streamlit.io/) and [Ollama](https://ollama.com/), designed to provide supportive conversations, positive affirmations, and guided meditation scripts — all offline using a lightweight LLM like `tinyllama`.
+# 🧠 Wellness Mate – AI-Powered Mental Wellness Chatbot
+
+Wellness Mate is an AI-powered chatbot application built with Streamlit that provides mental health support, motivational guidance, and emotional companionship. It leverages large language models (LLMs) through Ollama or OpenAI's API to deliver engaging, empathetic, and intelligent conversations.
 
 ---
 
 ## ✨ Features
 
-- 💬 Interactive mental wellness chatbot
-- 🌞 Positive affirmations for motivation and stress relief
-- 🧘 5-minute guided meditation scripts
-- 🎨 Beautiful UI with background image and custom themes
-- 🧠 Powered by a local Ollama LLM (e.g., `tinyllama:1.1b`)
+- 🧘‍♀️ **Mental Health Guidance**: Offers thoughtful and calming responses to users dealing with stress, anxiety, or emotional issues.
+- 💬 **Conversational Interface**: Interactive chat interface powered by Streamlit.
+- 🧠 **LLM Integration**: Uses either local Ollama models or OpenAI for response generation.
+- 🔁 **Dynamic Prompting**: Customizable prompts tailored to various moods or use cases (supportive, friendly, informative).
+- 💡 **Extensible**: Easy to integrate with more models or expand with additional mental health tools.
 
----
- ## ✨Languages/Components Used
-Frontend: Python,HTML ,CSS
-Backend: Ollama 
-Database: Ollama
+**Wellness Mate** is a friendly mental health chatbot built using [Streamlit](https://streamlit.io/) and [Ollama](https://ollama.com/), designed to provide supportive conversations, positive affirmations, and guided meditation scripts — all offline using a lightweight LLM like `tinyllama`.
 
----
 
-## ✨Functions
-Register, Login, and Continue as a Guest (For privacy reasons)
-Chat with the chatbot
-Select a specific topic
-Conduct a mental health test
-Mindfulness Exercises
-Journalling for manual tracking
-
----
 
 📷 Screenshots
 ---------------------------------------------------------------------------------------------------
