@@ -17,8 +17,8 @@ Wellness Mate is an AI-powered chatbot application built with Streamlit that pro
 
 
 
-📷 Screenshots!
-[s3](https://github.com/user-attachments/assets/281c8ff0-5dbd-407e-833c-b5df47ff765e)
+📷 Screenshots
+![s3](https://github.com/user-attachments/assets/281c8ff0-5dbd-407e-833c-b5df47ff765e)
 ![s1](https://github.com/user-attachments/assets/61249c8b-0ceb-470f-9544-678c091922af)
 ![s2](https://github.com/user-attachments/assets/d8e66897-c1ce-4f7d-93ed-e85312cb80ca)
 
